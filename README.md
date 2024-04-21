@@ -19,7 +19,7 @@
 
 ## 了解C
  
- ![alt text](image-1.png)
+ ![](https://www.techug.com/wordpress/wp-content/uploads/2018/07/new.png)
 
 `UNIX`操作系统，C编译器，和几乎所有的`UNIX`应用程序都是用C语言编写的。由于各种原因，C语言现在已经成为一种广泛使用的专业语言。
 
